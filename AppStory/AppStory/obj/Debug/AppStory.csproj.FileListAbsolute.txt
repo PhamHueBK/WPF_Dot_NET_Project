@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\bin\Debug\AppStory.exe.config
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\bin\Debug\AppStory.exe
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\bin\Debug\AppStory.pdb
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\AppStory.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\AppStory_MarkupCompile.cache
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\AppStory_MarkupCompile.lref
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\AppStory.g.resources
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\AppStory.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\AppStory.csproj.GenerateResource.Cache
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\AppStory.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\AppStory.exe
+C:\Users\Administrator\source\repos\WPF_Dot_NET_Project\AppStory\AppStory\obj\Debug\AppStory.pdb
